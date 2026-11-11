@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 9f8dd2c0e130ba848ad2feeb30ba19fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2566346981767397588
+    second: "Plataforma flotante de fantas\xEDa steampunk_0"
+  - first:
+      213: -5497170066055676009
+    second: "Plataforma flotante de fantas\xEDa steampunk_1"
+  - first:
+      213: 997723786285677281
+    second: "Plataforma flotante de fantas\xEDa steampunk_2"
+  - first:
+      213: -8570622109755466164
+    second: "Plataforma flotante de fantas\xEDa steampunk_3"
+  - first:
+      213: 6765141175107675964
+    second: "Plataforma flotante de fantas\xEDa steampunk_4"
+  - first:
+      213: 5737389324774024832
+    second: "Plataforma flotante de fantas\xEDa steampunk_5"
+  - first:
+      213: 8336852500718779408
+    second: "Plataforma flotante de fantas\xEDa steampunk_6"
+  - first:
+      213: -3894589260142560831
+    second: "Plataforma flotante de fantas\xEDa steampunk_7"
+  - first:
+      213: 7036781205260257026
+    second: "Plataforma flotante de fantas\xEDa steampunk_8"
+  - first:
+      213: -4412248051296838586
+    second: "Plataforma flotante de fantas\xEDa steampunk_9"
+  - first:
+      213: -4607032915417831724
+    second: "Plataforma flotante de fantas\xEDa steampunk_10"
+  - first:
+      213: 4969433560468188973
+    second: "Plataforma flotante de fantas\xEDa steampunk_11"
+  - first:
+      213: 5906300483569539621
+    second: "Plataforma flotante de fantas\xEDa steampunk_12"
+  - first:
+      213: -8186461638510929911
+    second: "Plataforma flotante de fantas\xEDa steampunk_13"
+  - first:
+      213: -399529039181519414
+    second: "Plataforma flotante de fantas\xEDa steampunk_14"
+  - first:
+      213: 1700985347676504618
+    second: "Plataforma flotante de fantas\xEDa steampunk_15"
+  - first:
+      213: 977529269165754510
+    second: "Plataforma flotante de fantas\xEDa steampunk_16"
+  - first:
+      213: -8189673104227051697
+    second: "Plataforma flotante de fantas\xEDa steampunk_17"
+  - first:
+      213: -5184469985212438795
+    second: "Plataforma flotante de fantas\xEDa steampunk_18"
+  - first:
+      213: -3916828593451102774
+    second: "Plataforma flotante de fantas\xEDa steampunk_19"
+  - first:
+      213: 443587718554904244
+    second: "Plataforma flotante de fantas\xEDa steampunk_20"
+  - first:
+      213: 790004171482980860
+    second: "Plataforma flotante de fantas\xEDa steampunk_21"
+  - first:
+      213: -8280168381816896142
+    second: "Plataforma flotante de fantas\xEDa steampunk_22"
+  - first:
+      213: 8581519711133213617
+    second: "Plataforma flotante de fantas\xEDa steampunk_23"
+  - first:
+      213: 8311608999918928339
+    second: "Plataforma flotante de fantas\xEDa steampunk_24"
+  - first:
+      213: -7966702493931022603
+    second: "Plataforma flotante de fantas\xEDa steampunk_25"
+  - first:
+      213: -8112853315424640342
+    second: "Plataforma flotante de fantas\xEDa steampunk_26"
+  - first:
+      213: 6958139338887898977
+    second: "Plataforma flotante de fantas\xEDa steampunk_27"
+  - first:
+      213: 6118237240513024655
+    second: "Plataforma flotante de fantas\xEDa steampunk_28"
+  - first:
+      213: 5565305507516055719
+    second: "Plataforma flotante de fantas\xEDa steampunk_29"
+  - first:
+      213: -6239879403740159753
+    second: "Plataforma flotante de fantas\xEDa steampunk_30"
+  - first:
+      213: -2718546026762938439
+    second: "Plataforma flotante de fantas\xEDa steampunk_31"
+  - first:
+      213: 5618840146303718257
+    second: "Plataforma flotante de fantas\xEDa steampunk_32"
+  - first:
+      213: -6817128058625622978
+    second: "Plataforma flotante de fantas\xEDa steampunk_33"
+  - first:
+      213: 2221072846753251247
+    second: "Plataforma flotante de fantas\xEDa steampunk_34"
+  - first:
+      213: 6088561504256738849
+    second: "Plataforma flotante de fantas\xEDa steampunk_35"
+  - first:
+      213: -3750874859197665394
+    second: "Plataforma flotante de fantas\xEDa steampunk_36"
+  - first:
+      213: 7526135681062079434
+    second: "Plataforma flotante de fantas\xEDa steampunk_37"
+  - first:
+      213: 7369466275047341130
+    second: "Plataforma flotante de fantas\xEDa steampunk_38"
+  - first:
+      213: 100696482468596016
+    second: "Plataforma flotante de fantas\xEDa steampunk_39"
+  - first:
+      213: 8294978357490936566
+    second: "Plataforma flotante de fantas\xEDa steampunk_40"
+  - first:
+      213: 363626793306688951
+    second: "Plataforma flotante de fantas\xEDa steampunk_41"
+  - first:
+      213: 9152092609452167434
+    second: "Plataforma flotante de fantas\xEDa steampunk_42"
+  - first:
+      213: -6034082039890742678
+    second: "Plataforma flotante de fantas\xEDa steampunk_43"
+  - first:
+      213: -7846670045353169171
+    second: "Plataforma flotante de fantas\xEDa steampunk_44"
+  - first:
+      213: -7931762920589344752
+    second: "Plataforma flotante de fantas\xEDa steampunk_45"
+  - first:
+      213: -3771981256516356450
+    second: "Plataforma flotante de fantas\xEDa steampunk_46"
+  - first:
+      213: -6011305107191610153
+    second: "Plataforma flotante de fantas\xEDa steampunk_47"
+  - first:
+      213: 6045329264050047722
+    second: "Plataforma flotante de fantas\xEDa steampunk_48"
+  - first:
+      213: -404571294881976330
+    second: "Plataforma flotante de fantas\xEDa steampunk_49"
+  - first:
+      213: 5565158865085295682
+    second: "Plataforma flotante de fantas\xEDa steampunk_50"
+  - first:
+      213: 46436808753847392
+    second: "Plataforma flotante de fantas\xEDa steampunk_51"
+  - first:
+      213: 2211727157712903938
+    second: "Plataforma flotante de fantas\xEDa steampunk_52"
+  - first:
+      213: -4288702910956280361
+    second: "Plataforma flotante de fantas\xEDa steampunk_53"
+  - first:
+      213: -5588212104550043717
+    second: "Plataforma flotante de fantas\xEDa steampunk_54"
+  - first:
+      213: -6500958620343487460
+    second: "Plataforma flotante de fantas\xEDa steampunk_55"
+  - first:
+      213: -360976547765392433
+    second: "Plataforma flotante de fantas\xEDa steampunk_56"
+  - first:
+      213: -2394511874755704130
+    second: "Plataforma flotante de fantas\xEDa steampunk_57"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 185
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fbb556401826cd0800000000000000
+      internalID: -2566346981767397588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 1491
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f37de33f026b3b0800000000000000
+      internalID: -5497170066055676009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_2"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 803
+        width: 135
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf3895f70a8dd00800000000000000
+      internalID: 997723786285677281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_3"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 831
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9aeba9980f0980800000000000000
+      internalID: -8570622109755466164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_4"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 793
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3769a53e0c92ed50800000000000000
+      internalID: 6765141175107675964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_5"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 865
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862641613d4f9f40800000000000000
+      internalID: 5737389324774024832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_6"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 830
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c7b2acd2372b370800000000000000
+      internalID: 8336852500718779408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_7"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 793
+        width: 297
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b62bc3b3a3f9c0800000000000000
+      internalID: -3894589260142560831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_8"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 793
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207cea5493ba7a160800000000000000
+      internalID: 7036781205260257026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_9"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 783
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cda8146cb84c2c0800000000000000
+      internalID: -4412248051296838586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_10"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 795
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6ecf7f8f78010c0800000000000000
+      internalID: -4607032915417831724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_11"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 784
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6c9a7e79f6f440800000000000000
+      internalID: 4969433560468188973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_12"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 839
+        width: 205
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a51e33ff467f150800000000000000
+      internalID: 5906300483569539621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_13"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 767
+        width: 145
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90891357388d36e80800000000000000
+      internalID: -8186461638510929911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_14"
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 791
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5e126a476947af0800000000000000
+      internalID: -399529039181519414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_15"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 855
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a220768592d1b9710800000000000000
+      internalID: 1700985347676504618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_16"
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 851
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880c2ee0b1e09d00800000000000000
+      internalID: 977529269165754510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_17"
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 791
+        width: 213
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47d9f3d3bf685e80800000000000000
+      internalID: -8189673104227051697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_18"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 799
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ecb654001d08b0800000000000000
+      internalID: -5184469985212438795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_19"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 791
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd01418521a4a9c0800000000000000
+      internalID: -3916828593451102774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_20"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 723
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e0370ea0f72600800000000000000
+      internalID: 443587718554904244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_21"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 753
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1e15cbb98a6fa00800000000000000
+      internalID: 790004171482980860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_22"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 749
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27502691abee61d80800000000000000
+      internalID: -8280168381816896142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_23"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 749
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ab1fd5bea71770800000000000000
+      internalID: 8581519711133213617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_24"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 689
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18b104954c85370800000000000000
+      internalID: 8311608999918928339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_25"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 543
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6d50a8a46907190800000000000000
+      internalID: -7966702493931022603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_26"
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 607
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2a343b4ea596f80800000000000000
+      internalID: -8112853315424640342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_27"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 356
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a518ecd6409060800000000000000
+      internalID: 6958139338887898977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_28"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 341
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82585cba5858e450800000000000000
+      internalID: 6118237240513024655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_29"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 348
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a005027fdfeb3d40800000000000000
+      internalID: 5565305507516055719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_30"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0aaca1ebe7769a0800000000000000
+      internalID: -6239879403740159753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_31"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 251
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7de39cac8c54ad0800000000000000
+      internalID: -2718546026762938439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_32"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 125
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173132ad7512afd40800000000000000
+      internalID: 5618840146303718257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_33"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 113
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c754d3622b461a0800000000000000
+      internalID: -6817128058625622978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_34"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 111
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf3ef28cf5d2de10800000000000000
+      internalID: 2221072846753251247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_35"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 109
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264756fd6aee7450800000000000000
+      internalID: 6088561504256738849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_36"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 89
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f6494403732fbc0800000000000000
+      internalID: -3750874859197665394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_37"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 115
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb0919d684327860800000000000000
+      internalID: 7526135681062079434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_38"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cfa64388a954660800000000000000
+      internalID: 7369466275047341130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_39"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 125
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390ca3daeeb56100800000000000000
+      internalID: 100696482468596016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_40"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 81
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faecc11edead1370800000000000000
+      internalID: 8294978357490936566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_41"
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 115
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd0cd554acdb0500800000000000000
+      internalID: 363626793306688951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_42"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01dfd90db3c20f70800000000000000
+      internalID: 9152092609452167434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_43"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a627fbaca52a24ca0800000000000000
+      internalID: -6034082039890742678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_44"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 113
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea60dca270b1390800000000000000
+      internalID: -7846670045353169171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_45"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01048a3e5a7bce190800000000000000
+      internalID: -7931762920589344752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_46"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 103
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9639e1380b37abc0800000000000000
+      internalID: -3771981256516356450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_47"
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 103
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44a51badd839ca0800000000000000
+      internalID: -6011305107191610153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_48"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 113
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0af5afe255e350800000000000000
+      internalID: 6045329264050047722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_49"
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 101
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6d320d8ca26af0800000000000000
+      internalID: -404571294881976330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_50"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 111
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6608908a6b3d40800000000000000
+      internalID: 5565158865085295682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_51"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 105
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9642180af4a000800000000000000
+      internalID: 46436808753847392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_52"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fdf87b122a1be10800000000000000
+      internalID: 2211727157712903938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_53"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 79
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5644dcc677b74c0800000000000000
+      internalID: -4288702910956280361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_54"
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 65
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfa1c2d2bea272b0800000000000000
+      internalID: -5588212104550043717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_55"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 61
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14b9ee0494f7c5a0800000000000000
+      internalID: -6500958620343487460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_56"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb623a0ebd8dfaf0800000000000000
+      internalID: -360976547765392433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plataforma flotante de fantas\xEDa steampunk_57"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 34
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4bb6f22cf4ced0800000000000000
+      internalID: -2394511874755704130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Plataforma flotante de fantas\xEDa steampunk_0": -2566346981767397588
+      "Plataforma flotante de fantas\xEDa steampunk_1": -5497170066055676009
+      "Plataforma flotante de fantas\xEDa steampunk_10": -4607032915417831724
+      "Plataforma flotante de fantas\xEDa steampunk_11": 4969433560468188973
+      "Plataforma flotante de fantas\xEDa steampunk_12": 5906300483569539621
+      "Plataforma flotante de fantas\xEDa steampunk_13": -8186461638510929911
+      "Plataforma flotante de fantas\xEDa steampunk_14": -399529039181519414
+      "Plataforma flotante de fantas\xEDa steampunk_15": 1700985347676504618
+      "Plataforma flotante de fantas\xEDa steampunk_16": 977529269165754510
+      "Plataforma flotante de fantas\xEDa steampunk_17": -8189673104227051697
+      "Plataforma flotante de fantas\xEDa steampunk_18": -5184469985212438795
+      "Plataforma flotante de fantas\xEDa steampunk_19": -3916828593451102774
+      "Plataforma flotante de fantas\xEDa steampunk_2": 997723786285677281
+      "Plataforma flotante de fantas\xEDa steampunk_20": 443587718554904244
+      "Plataforma flotante de fantas\xEDa steampunk_21": 790004171482980860
+      "Plataforma flotante de fantas\xEDa steampunk_22": -8280168381816896142
+      "Plataforma flotante de fantas\xEDa steampunk_23": 8581519711133213617
+      "Plataforma flotante de fantas\xEDa steampunk_24": 8311608999918928339
+      "Plataforma flotante de fantas\xEDa steampunk_25": -7966702493931022603
+      "Plataforma flotante de fantas\xEDa steampunk_26": -8112853315424640342
+      "Plataforma flotante de fantas\xEDa steampunk_27": 6958139338887898977
+      "Plataforma flotante de fantas\xEDa steampunk_28": 6118237240513024655
+      "Plataforma flotante de fantas\xEDa steampunk_29": 5565305507516055719
+      "Plataforma flotante de fantas\xEDa steampunk_3": -8570622109755466164
+      "Plataforma flotante de fantas\xEDa steampunk_30": -6239879403740159753
+      "Plataforma flotante de fantas\xEDa steampunk_31": -2718546026762938439
+      "Plataforma flotante de fantas\xEDa steampunk_32": 5618840146303718257
+      "Plataforma flotante de fantas\xEDa steampunk_33": -6817128058625622978
+      "Plataforma flotante de fantas\xEDa steampunk_34": 2221072846753251247
+      "Plataforma flotante de fantas\xEDa steampunk_35": 6088561504256738849
+      "Plataforma flotante de fantas\xEDa steampunk_36": -3750874859197665394
+      "Plataforma flotante de fantas\xEDa steampunk_37": 7526135681062079434
+      "Plataforma flotante de fantas\xEDa steampunk_38": 7369466275047341130
+      "Plataforma flotante de fantas\xEDa steampunk_39": 100696482468596016
+      "Plataforma flotante de fantas\xEDa steampunk_4": 6765141175107675964
+      "Plataforma flotante de fantas\xEDa steampunk_40": 8294978357490936566
+      "Plataforma flotante de fantas\xEDa steampunk_41": 363626793306688951
+      "Plataforma flotante de fantas\xEDa steampunk_42": 9152092609452167434
+      "Plataforma flotante de fantas\xEDa steampunk_43": -6034082039890742678
+      "Plataforma flotante de fantas\xEDa steampunk_44": -7846670045353169171
+      "Plataforma flotante de fantas\xEDa steampunk_45": -7931762920589344752
+      "Plataforma flotante de fantas\xEDa steampunk_46": -3771981256516356450
+      "Plataforma flotante de fantas\xEDa steampunk_47": -6011305107191610153
+      "Plataforma flotante de fantas\xEDa steampunk_48": 6045329264050047722
+      "Plataforma flotante de fantas\xEDa steampunk_49": -404571294881976330
+      "Plataforma flotante de fantas\xEDa steampunk_5": 5737389324774024832
+      "Plataforma flotante de fantas\xEDa steampunk_50": 5565158865085295682
+      "Plataforma flotante de fantas\xEDa steampunk_51": 46436808753847392
+      "Plataforma flotante de fantas\xEDa steampunk_52": 2211727157712903938
+      "Plataforma flotante de fantas\xEDa steampunk_53": -4288702910956280361
+      "Plataforma flotante de fantas\xEDa steampunk_54": -5588212104550043717
+      "Plataforma flotante de fantas\xEDa steampunk_55": -6500958620343487460
+      "Plataforma flotante de fantas\xEDa steampunk_56": -360976547765392433
+      "Plataforma flotante de fantas\xEDa steampunk_57": -2394511874755704130
+      "Plataforma flotante de fantas\xEDa steampunk_6": 8336852500718779408
+      "Plataforma flotante de fantas\xEDa steampunk_7": -3894589260142560831
+      "Plataforma flotante de fantas\xEDa steampunk_8": 7036781205260257026
+      "Plataforma flotante de fantas\xEDa steampunk_9": -4412248051296838586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
