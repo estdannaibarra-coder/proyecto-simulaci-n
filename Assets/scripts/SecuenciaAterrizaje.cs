@@ -40,6 +40,12 @@ public class SecuenciaAterrizaje : MonoBehaviour
         caida.enabled = false;
         jesterFrontal.SetActive(false);
         jesterLateral.SetActive(true);
+        var control = GetComponent<ControlLateral>();
+        if (control != null)
+        {
+            // El pivote del lateral queda en el suelo actual
+            control.enabled = true;
+        }
 
         yield return new WaitForSeconds(0.25f);
 
