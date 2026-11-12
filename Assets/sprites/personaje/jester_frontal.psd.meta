@@ -9881,56 +9881,6 @@ ScriptedImporter:
     flatten: 0
     isImported: 0
     isVisible: 0
-  - name: Pie der
-    spriteName: 
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 4e41b9f15bd189e41bc3af808814b0cc
-    layerID: 57
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: gemelo der
-    spriteName: 
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c3c4a7fe86dd4254db80973f792ce5eb
-    layerID: 61
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: 'muslo derecho '
-    spriteName: 
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 3e3dabdd458257e4bbe756cf686d6c8c
-    layerID: 59
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: 'Falda '
-    spriteName: 'Falda '
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c56e547e671c83d41a31d68d7eb3cb92
-    layerID: 64
-    mosaicPosition: {x: 1194, y: 4}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: brazo der
-    spriteName: brazo der
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 12857391c1eeb214e97be0aa8e9af691
-    layerID: 65
-    mosaicPosition: {x: 1464, y: 4}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
   - name: Capa 3
     spriteName: Capa 3
     isGroup: 0

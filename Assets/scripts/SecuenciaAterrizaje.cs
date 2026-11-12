@@ -4,7 +4,7 @@ using UnityEngine;
 public class SecuenciaAterrizaje : MonoBehaviour
 {
     [SerializeField] float esperaAterrizaje = 1f;   // duración aproximada de aterrizar
-
+    [SerializeField] CameraFollow camara;
     [SerializeField] FreeFall caida;
     [SerializeField] Animator animCaida;
     [SerializeField] TransicionLateral transicion;
@@ -40,6 +40,7 @@ public class SecuenciaAterrizaje : MonoBehaviour
         caida.enabled = false;
         jesterFrontal.SetActive(false);
         jesterLateral.SetActive(true);
+        if (camara != null) camara.ActivarModoFinal();
         var control = GetComponent<ControlLateral>();
         if (control != null)
         {
